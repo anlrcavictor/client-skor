@@ -1,9 +1,13 @@
 # client-skor
 
 ## Project setup
-```
-npm install
-```
+
+See [Vue Configuration Reference](https://cli.vuejs.org/config/).
+See [Node.js Configuration Reference](https://nodejs.org/en/docs/).
+
+Herhangi bir Setup Gereksinimi bulunmuyor, yanlız npm bazı dependencyleri göremeyebiliyor,
+npm in terminal önerilerini uygulayarak dependency sorunlarını aşabilirsiniz.
+
 
 ### Compiles and hot-reloads for development
 ```
@@ -20,5 +24,14 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Project Description
+Projede istenildiği üzere modern clien-side Javascript frameworklerinden Vue.js kullandım, 
+proje basit olduğu için component-based bir structure oluşturmadım, ama client side layered 
+mimariyi oluşturdum Service, Model ve View katmanları gibi... Vue üzerinde hala kendimi geliştirmekteyim genel gereklilikleri yapabilmeme rağmen, tam anlamıyla içime sinen bir
+proje çıkartamazdım.Projenin ulaştığı end-point olarak *localhost:8080* gösterilmiştir.
+
+##### Project Missing Features
+Eksik aranırsa çok şey bulunur tabiki, ama böyle bi küçük interview projesi için eksik 
+gördüklerim , Masking, Front-End Validation konularını söyleyebilirim, Fazla vaktim olmadığı 
+için implement edemedim. 
+
