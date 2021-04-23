@@ -30,8 +30,3 @@ proje basit olduğu için component-based bir structure oluşturmadım, ama clie
 mimariyi oluşturdum Service, Model ve View katmanları gibi... Vue üzerinde hala kendimi geliştirmekteyim genel gereklilikleri yapabilmeme rağmen, tam anlamıyla içime sinen bir
 proje çıkartamazdım.Projenin ulaştığı end-point olarak *localhost:8080* gösterilmiştir.
 
-##### Project Missing Features
-Eksik aranırsa çok şey bulunur tabiki, ama böyle bi küçük interview projesi için eksik 
-gördüklerim , Masking, Front-End Validation konularını söyleyebilirim, Fazla vaktim olmadığı 
-için implement edemedim. 
-
